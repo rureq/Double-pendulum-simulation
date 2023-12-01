@@ -1,0 +1,8 @@
+[Dd]ebug/
+[Rr]elease/
+.vscode/*
+.vs/*
+*.vcxproj
+*.vcxproj.filters
+*.exe
+wynik.txt
